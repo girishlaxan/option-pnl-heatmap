@@ -1,0 +1,16 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit export artifacts
+Streamlit.html
+Streamlit_files/
+
+# System files
+.DS_Store
+
+# IDE junk
+.idea/
+.vscode/
